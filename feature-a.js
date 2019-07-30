@@ -1,1 +1,1 @@
-console.log('concept behind github');
+console.log('concept behind github is easy');
